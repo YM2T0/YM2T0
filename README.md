@@ -1,6 +1,17 @@
-# Hi, I'm YM2T0
+# Hi there
+
+
+Building software for fun.
+
+## Current Focus
+
 
 ## Interests
+
+- Security 
+- Cryptography 
+- Quantum Information Theory 
+- Mathematics 
 
 <!--
 **YM2T0/YM2T0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
